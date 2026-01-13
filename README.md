@@ -18,7 +18,7 @@ Here is the performance comparison across Accuracy, F1, and Precision.
 ### 2. PairPlot
 The pairplot for the data.
 
-![Confusion Matrix](plots/pair.png)
+![PairPlot](plots/pair.png)
 
 ## Key Findings
 * **LightGBM** achieved the best balance of speed and accuracy.
