@@ -13,12 +13,16 @@ This project classifies stellar objects into three categories (**Galaxy, Star, Q
 ### 1. Model Comparison
 Here is the performance comparison across Accuracy, F1, and Precision.
 
-![Model Comparison Graph](plots/Metrics.png) 
+<p align="center">
+  <img src="plots/Metrics.png" width="600" title="Optional Title">
+</p> 
 
 ### 2. PairPlot
 The pairplot for the data.
 
-![PairPlot](plots/pair.png)
+<p align="center">
+  <img src="plots/pair.png" width="600" title="Optional Title">
+</p>
 
 ## Key Findings
 * **LightGBM** achieved the best balance of speed and accuracy.
